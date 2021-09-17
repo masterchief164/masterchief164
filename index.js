@@ -15,6 +15,7 @@ function generateReadMe() {
 
 const init = async () => {
     const data = (await axios.get('https://api.github.com/users/masterchief164/events')).data[0].repo.name;
+    const joke = (await axios.get("https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=single")).data.joke
 
     const d = new Date()
     DATA = {
@@ -29,7 +30,8 @@ const init = async () => {
             timeZone: 'Asia/Kolkata',
         }),
         repoName: data.substring(data.indexOf('/') + 1),
-        repoURL: data
+        repoURL: data,
+        joke: joke
     };
     generateReadMe();
 }
