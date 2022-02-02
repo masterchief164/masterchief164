@@ -4,16 +4,19 @@
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on [internship_api](https://github.com/masterchief164&#x2F;internship_api)
+- 🔭 I’m currently working on [books_api](https://github.com/masterchief164&#x2F;books_api)
 - 🌱 I’m currently learning: Vue.js and Firebase
 - 💬 Ask me about: C++, JS, Java and MERN
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: &quot;Honey, go to the store and buy some eggs.&quot;
-&quot;OK.&quot;
-&quot;Oh and while you&#39;re there, get some milk.&quot;
-He never returned.
+- ⚡ Fun fact: The six stages of debugging:
+1. That can&#39;t happen.
+2. That doesn&#39;t happen on my machine.
+3. That shouldn&#39;t happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -41,4 +44,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 7:39:16 PM
+the last update  was at 8:40:22 PM
