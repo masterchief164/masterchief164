@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: A SQL statement walks into a bar and sees two tables.
-It approaches, and asks &quot;may I join you?&quot;
+- ⚡ Fun fact: &#x2F;&#x2F; This line doesn&#39;t actually do anything, but the code stops working when I delete it.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -39,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 5:52:19 PM
+the last update  was at 7:01:08 PM
