@@ -1,6 +1,6 @@
 ## Hi there 👋
 # I'm Shaswat
-### and today is Friday, May 6.
+### and today is Saturday, May 7.
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
@@ -10,10 +10,10 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: Eight bytes walk into a bar.
-The bartender asks, &quot;Can I get you anything?&quot;
-&quot;Yeah,&quot; reply the bytes.
-&quot;Make us a double.&quot;
+- ⚡ Fun fact: &quot;Honey, go to the store and buy some eggs.&quot;
+&quot;OK.&quot;
+&quot;Oh and while you&#39;re there, get some milk.&quot;
+He never returned.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -41,4 +41,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 11:44:48 PM
+the last update  was at 12:40:09 AM
