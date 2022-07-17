@@ -10,11 +10,13 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It&#39;s HTML5.
+- ⚡ Fun fact: The six stages of debugging:
+1. That can&#39;t happen.
+2. That doesn&#39;t happen on my machine.
+3. That shouldn&#39;t happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -42,4 +44,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 12:39:37 AM
+the last update  was at 1:42:02 AM
