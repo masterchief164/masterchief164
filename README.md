@@ -10,11 +10,11 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: Four engineers get into a car. The car won&#39;t start.
-The Mechanical engineer says &quot;It&#39;s a broken starter&quot;.
-The Electrical engineer says &quot;Dead battery&quot;.
-The Chemical engineer says &quot;Impurities in the gasoline&quot;.
-The IT engineer says &quot;Hey guys, I have an idea: How about we all get out of the car and get back in&quot;.
+- ⚡ Fun fact: How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It&#39;s HTML5.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -42,4 +42,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 3:45:10 PM
+the last update  was at 4:40:50 PM
