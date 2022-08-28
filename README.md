@@ -1,6 +1,6 @@
 ## Hi there 👋
 # I'm Shaswat
-### and today is Sunday, August 28.
+### and today is Monday, August 29.
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
@@ -10,13 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: The six stages of debugging:
-1. That can&#39;t happen.
-2. That doesn&#39;t happen on my machine.
-3. That shouldn&#39;t happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?
+- ⚡ Fun fact: Java and C were telling jokes. It was C&#39;s turn, so he writes something on the wall, points to it and says &quot;Do you get the reference?&quot; But Java didn&#39;t.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -44,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 11:44:40 PM
+the last update  was at 12:40:20 AM
