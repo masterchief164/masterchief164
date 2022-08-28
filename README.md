@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: Today I learned that changing random stuff until your program works is &quot;hacky&quot; and a &quot;bad coding practice&quot; but if you do it fast enough it&#39;s &quot;Machine Learning&quot; and pays 4x your current salary.
+- ⚡ Fun fact: Debugging is like being the detective in a crime movie where you&#39;re also the murderer at the same time.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 1:45:16 PM
+the last update  was at 2:41:52 PM
