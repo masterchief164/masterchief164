@@ -10,7 +10,10 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: Today I learned that changing random stuff until your program works is &quot;hacky&quot; and a &quot;bad coding practice&quot; but if you do it fast enough it&#39;s &quot;Machine Learning&quot; and pays 4x your current salary.
+- ⚡ Fun fact: Judge: &quot;I sentence you to the maximum punishment...&quot;
+Me (thinking): &quot;Please be death, please be death...&quot;
+Judge: &quot;Learn Java!&quot;
+Me: &quot;Damn.&quot;
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +41,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 6:42:16 AM
+the last update  was at 9:25:50 AM
