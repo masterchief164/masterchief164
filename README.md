@@ -10,12 +10,11 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: &quot;Knock, knock.&quot;
-&quot;Who&#39;s there?&quot;
-
-[very long pause]
-
-&quot;Java.&quot;
+- ⚡ Fun fact: Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I&#39;d use RGB for you.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -43,4 +42,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 9:50:31 AM
+the last update  was at 11:36:14 AM
