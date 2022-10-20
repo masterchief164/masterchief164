@@ -10,9 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: &quot;Can I tell you a TCP joke?&quot;
-&quot;Please tell me a TCP joke.&quot;
-&quot;OK, I&#39;ll tell you a TCP joke.&quot;
+- ⚡ Fun fact: The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -40,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 8:48:20 PM
+the last update  was at 9:55:01 PM
