@@ -4,13 +4,13 @@
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on [smart-attendance-web](https://github.com/masterchief164&#x2F;smart-attendance-web)
+- 🔭 I’m currently working on [idea-usher](https://github.com/masterchief164&#x2F;idea-usher)
 - 🌱 I’m currently learning: Vue.js and Firebase
 - 💬 Ask me about: C++, JS, Java and MERN
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: I&#39;d tell you a joke about NAT but I would have to translate.
+- ⚡ Fun fact: The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 10:49:03 PM
+the last update  was at 11:46:35 PM
