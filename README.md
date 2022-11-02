@@ -10,10 +10,8 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: Judge: &quot;I sentence you to the maximum punishment...&quot;
-Me (thinking): &quot;Please be death, please be death...&quot;
-Judge: &quot;Learn Java!&quot;
-Me: &quot;Damn.&quot;
+- ⚡ Fun fact: A SQL statement walks into a bar and sees two tables.
+It approaches, and asks &quot;may I join you?&quot;
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -41,4 +39,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 4:44:42 AM
+the last update  was at 6:45:33 AM
