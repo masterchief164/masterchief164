@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn&#39;t.
+- ⚡ Fun fact: Algorithm: A word used by programmers when they don&#39;t want to explain how their code works.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -39,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 9:47:06 PM
+the last update  was at 10:43:17 PM
