@@ -1,6 +1,6 @@
 ## Hi there 👋
 # I'm Shaswat
-### and today is Thursday, December 1.
+### and today is Friday, December 2.
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
@@ -42,4 +42,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 11:43:57 PM
+the last update  was at 12:39:29 AM
