@@ -4,17 +4,13 @@
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on [smart-attendance](https://github.com/masterchief164&#x2F;smart-attendance)
+- 🔭 I’m currently working on [bitcointranscripts](https://github.com/masterchief164&#x2F;bitcointranscripts)
 - 🌱 I’m currently learning: Vue.js and Firebase
 - 💬 Ask me about: C++, JS, Java and MERN
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I&#39;d use RGB for you.
+- ⚡ Fun fact: There are only 10 kinds of people in this world: those who know binary and those who don&#39;t.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -42,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 3:40:21 AM
+the last update  was at 4:41:08 AM
