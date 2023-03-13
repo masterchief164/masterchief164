@@ -1,19 +1,16 @@
 ## Hi there 👋
 # I'm Shaswat
-### and today is Monday, March 13.
+### and today is Tuesday, March 14.
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on [smart-attendance-web](https://github.com/masterchief164&#x2F;smart-attendance-web)
+- 🔭 I’m currently working on [tstbtc](https://github.com/bitcointranscripts&#x2F;tstbtc)
 - 🌱 I’m currently learning: Vue.js and Firebase
 - 💬 Ask me about: C++, JS, Java and MERN
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: Eight bytes walk into a bar.
-The bartender asks, &quot;Can I get you anything?&quot;
-&quot;Yeah,&quot; reply the bytes.
-&quot;Make us a double.&quot;
+- ⚡ Fun fact: If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -41,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 11:42:52 PM
+the last update  was at 1:41:34 AM
