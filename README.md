@@ -1,19 +1,17 @@
 ## Hi there 👋
 # I'm Shaswat
-### and today is Monday, July 17.
+### and today is Tuesday, July 18.
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on [cypherock-cysync](https://github.com/Cypherock&#x2F;cypherock-cysync)
+- 🔭 I’m currently working on [lostAndFound](https://github.com/masterchief164&#x2F;lostAndFound)
 - 🌱 I’m currently learning: Vue.js and Firebase
 - 💬 Ask me about: C++, JS, Java and MERN
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: Judge: &quot;I sentence you to the maximum punishment...&quot;
-Me (thinking): &quot;Please be death, please be death...&quot;
-Judge: &quot;Learn Java!&quot;
-Me: &quot;Damn.&quot;
+- ⚡ Fun fact: A SQL statement walks into a bar and sees two tables.
+It approaches, and asks &quot;may I join you?&quot;
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -41,4 +39,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 11:43:39 PM
+the last update  was at 12:38:48 AM
