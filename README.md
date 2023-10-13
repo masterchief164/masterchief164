@@ -4,13 +4,13 @@
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on [cypherock-cysync](https://github.com/Cypherock&#x2F;cypherock-cysync)
+- 🔭 I’m currently working on [New-Grad-Positions](https://github.com/SimplifyJobs&#x2F;New-Grad-Positions)
 - 🌱 I’m currently learning: Vue.js and Firebase
 - 💬 Ask me about: C++, JS, Java and MERN
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [20bec101@iiitdmj.ac.in](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=20bec101@iiitdmj.ac.in)
-- ⚡ Fun fact: Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+- ⚡ Fun fact: Algorithm: A word used by programmers when they don&#39;t want to explain how their code works.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 9:42:08 PM
+the last update  was at 10:38:26 PM
