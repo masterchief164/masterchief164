@@ -4,18 +4,16 @@
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on [graid](https://github.com/masterchief164&#x2F;graid)
+- 🔭 I’m currently working on [portfolio-management](https://github.com/masterchief164&#x2F;portfolio-management)
 - 🌱 I’m currently learning: Dotnet core, Golang and electronJS
 - 💬 Ask me about: C++, JS, Java and MERN
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: &quot;Knock, knock.&quot;
-&quot;Who&#39;s there?&quot;
-
-[very long pause]
-
-&quot;Java.&quot;
+- ⚡ Fun fact: Eight bytes walk into a bar.
+The bartender asks, &quot;Can I get you anything?&quot;
+&quot;Yeah,&quot; reply the bytes.
+&quot;Make us a double.&quot;
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -43,4 +41,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 10:47:22 AM
+the last update  was at 11:54:47 AM
