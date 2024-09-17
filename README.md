@@ -1,6 +1,6 @@
 ## Hi there 👋
 # I'm Shaswat
-### and today is Tuesday, September 17.
+### and today is Wednesday, September 18.
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: Two SQL tables sit at the bar. A query approaches and asks &quot;Can I join you?&quot;
+- ⚡ Fun fact: Java is like Alzheimer&#39;s, it starts off slow, but eventually, your memory is gone.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 10:47:09 PM
+the last update  was at 12:45:20 AM
