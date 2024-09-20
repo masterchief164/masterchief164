@@ -10,11 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: Four engineers get into a car. The car won&#39;t start.
-The Mechanical engineer says &quot;It&#39;s a broken starter&quot;.
-The Electrical engineer says &quot;Dead battery&quot;.
-The Chemical engineer says &quot;Impurities in the gasoline&quot;.
-The IT engineer says &quot;Hey guys, I have an idea: How about we all get out of the car and get back in&quot;.
+- ⚡ Fun fact: Java and C were telling jokes. It was C&#39;s turn, so he writes something on the wall, points to it and says &quot;Do you get the reference?&quot; But Java didn&#39;t.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -42,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 1:51:19 AM
+the last update  was at 2:48:00 AM
