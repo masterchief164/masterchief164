@@ -10,7 +10,11 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: &quot;We messed up the keming again guys.&quot;
+- ⚡ Fun fact: Knock knock.
+Who&#39;s there?
+Recursion.
+Recursion who?
+Knock knock.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +42,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 7:48:28 PM
+the last update  was at 8:51:28 PM
