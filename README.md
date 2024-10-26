@@ -10,7 +10,13 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: There are only 10 kinds of people in this world: those who know binary and those who don&#39;t.
+- ⚡ Fun fact: The six stages of debugging:
+1. That can&#39;t happen.
+2. That doesn&#39;t happen on my machine.
+3. That shouldn&#39;t happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +44,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 4:46:43 PM
+the last update  was at 6:06:01 PM
