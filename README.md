@@ -10,10 +10,10 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: Judge: &quot;I sentence you to the maximum punishment...&quot;
-Me (thinking): &quot;Please be death, please be death...&quot;
-Judge: &quot;Learn Java!&quot;
-Me: &quot;Damn.&quot;
+- ⚡ Fun fact: A byte walks into a bar looking miserable.
+The bartender asks it: &quot;What&#39;s wrong buddy?&quot;
+&quot;Parity error.&quot; it replies. 
+&quot;Ah that makes sense, I thought you looked a bit off.&quot;
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -41,4 +41,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 12:45:52 AM
+the last update  was at 1:51:51 AM
