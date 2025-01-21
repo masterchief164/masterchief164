@@ -4,13 +4,13 @@
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on [fractals](https://github.com/masterchief164&#x2F;fractals)
+- 🔭 I’m currently working on [test-repo](https://github.com/BitByte-TPC&#x2F;test-repo)
 - 🌱 I’m currently learning: Dotnet core, Golang and electronJS
 - 💬 Ask me about: C++, JS, Java and MERN
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: Java is like Alzheimer&#39;s, it starts off slow, but eventually, your memory is gone.
+- ⚡ Fun fact: Debugging: Removing the needles from the haystack.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 3:47:45 AM
+the last update  was at 4:47:57 AM
