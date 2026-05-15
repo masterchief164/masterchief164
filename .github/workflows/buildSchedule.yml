@@ -12,23 +12,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
-      - name: Setup NodeJs 13.x
-        uses: actions/setup-node@v1
+      # 1. Upgraded to v6 (Migrated to Node 24 runtime, security & performance improvements)
+      - name: Checkout current repository
+        uses: actions/checkout@v6
+
+      # 2. Upgraded to v4 (Supports latest Node versions and handles caching natively)
+      # Changed Node from 13.x (End-of-Life) to 20.x (Current LTS)
+      - name: Setup Node.js 20.x
+        uses: actions/setup-node@v4
         with:
-          node-version: '13.x'
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v1
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          node-version: '20.x'
+          cache: 'npm' # Native dependency caching replaces the separate actions/cache@v1 step
+
       - name: Install dependencies
-        run: npm install
+        run: npm ci # 'npm ci' is preferred for CI environments over 'npm install'
+
       - name: Generate README file
         run: node index.js
-      - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'main'
+
+      # 3. Replaced the deprecated third-party action with standard Git commands
+      - name: Commit and Push new README.md
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: automatically update README.md"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
