@@ -1,16 +1,20 @@
 ## Hi there 👋
 # I'm Shaswat
-### and today is Thursday, February 20.
+### and today is Saturday, May 16.
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on [test-repo](https://github.com/BitByte-TPC&#x2F;test-repo)
+- 🔭 I’m currently working on [masterchief164](https://github.com/masterchief164&#x2F;masterchief164)
 - 🌱 I’m currently learning: Dotnet core, Golang and electronJS
 - 💬 Ask me about: C++, JS, Java and MERN
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: &#x2F;&#x2F; This line doesn&#39;t actually do anything, but the code stops working when I delete it.
+- ⚡ Fun fact: Four engineers get into a car. The car won&#39;t start.
+The Mechanical engineer says &quot;It&#39;s a broken starter&quot;.
+The Electrical engineer says &quot;Dead battery&quot;.
+The Chemical engineer says &quot;Impurities in the gasoline&quot;.
+The IT engineer says &quot;Hey guys, I have an idea: How about we all get out of the car and get back in&quot;.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +42,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 10:46:33 PM
+the last update  was at 4:44:12 AM
