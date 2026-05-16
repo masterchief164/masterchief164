@@ -4,13 +4,13 @@
 
 ![Shaswat github stats](https://github-readme-stats.vercel.app/api?username=masterchief164&theme=dark&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on [masterchief164](https://github.com/masterchief164&#x2F;masterchief164)
+- 🔭 I’m currently working on [neetcode-submissions](https://github.com/masterchief164&#x2F;neetcode-submissions)
 - 🌱 I’m currently learning: Dotnet core, Golang and electronJS
 - 💬 Ask me about: C++, JS, Java and MERN
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says &quot;Can&#39;t you see the warning on the cigarette pack? Smoking is hazardous to your health!&quot; to which the man replies, &quot;I am a programmer.  We don&#39;t worry about warnings; we only worry about errors.&quot;
+- ⚡ Fun fact: ASCII silly question, get a silly ANSI.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 3:50:16 PM
+the last update  was at 5:25:53 PM
