@@ -10,10 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: &quot;Honey, go to the store and buy some eggs.&quot;
-&quot;OK.&quot;
-&quot;Oh and while you&#39;re there, get some milk.&quot;
-He never returned.
+- ⚡ Fun fact: UDP is better in the COVID era since it avoids unnecessary handshakes.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -41,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 3:38:59 AM
+the last update  was at 5:43:08 AM
