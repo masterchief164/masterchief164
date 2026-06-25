@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+- ⚡ Fun fact: Your mama&#39;s so FAT she can&#39;t save files bigger than 4GB.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 4:39:12 AM
+the last update  was at 9:32:04 AM
