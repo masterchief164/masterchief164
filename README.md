@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: The generation of random numbers is too important to be left to chance.
+- ⚡ Fun fact: A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says &quot;Can&#39;t you see the warning on the cigarette pack? Smoking is hazardous to your health!&quot; to which the man replies, &quot;I am a programmer.  We don&#39;t worry about warnings; we only worry about errors.&quot;
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 5:43:31 PM
+the last update  was at 9:03:18 PM
