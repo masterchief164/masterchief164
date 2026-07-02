@@ -10,13 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: The six stages of debugging:
-1. That can&#39;t happen.
-2. That doesn&#39;t happen on my machine.
-3. That shouldn&#39;t happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?
+- ⚡ Fun fact: Debugging is like being the detective in a crime movie where you&#39;re also the murderer at the same time.
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -44,4 +38,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 3:51:23 AM
+the last update  was at 5:43:38 AM
