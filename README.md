@@ -10,7 +10,9 @@
 - 👯 I’m looking to collaborate on Web Development
 - 😄 Pronouns: He/His
 - 📫 How to reach me: [shaswat2001.sg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shaswat2001.sg@gmail.com)
-- ⚡ Fun fact: Java is like Alzheimer&#39;s, it starts off slow, but eventually, your memory is gone.
+- ⚡ Fun fact: A guy walks into a bar and asks for 1.4 root beers.
+The bartender says &quot;I&#39;ll have to charge you extra, that&#39;s a root beer float&quot;.
+The guy says &quot;In that case, better make it a double.&quot;
 - ![](https://i.stack.imgur.com/gVE0j.png) Connect with
 me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 
@@ -38,4 +40,4 @@ me: [Shaswat Gupta](https://www.linkedin.com/in/shaswat-gupta-16b1891b4)
 </p>
 
 psst... This readme updates every hour
-the last update  was at 8:17:15 PM
+the last update  was at 9:43:23 PM
